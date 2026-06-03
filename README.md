@@ -1,2 +1,2 @@
 # Initial-Repo
-This is a initial repository to understand what is this github account used for.
+This initial repository contains information about this GitHub account and its purpose.
